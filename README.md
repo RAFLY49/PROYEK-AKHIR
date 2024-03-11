@@ -1,5 +1,5 @@
 # Proyek Akhir Dicoding
-# Fedro MJ
+# Rafly Ramadan
 
 ## Setup environment
 ```
