@@ -3,13 +3,12 @@
 
 ## Setup environment
 ```
-pipenv install
-pipenv shell
-pip install pandas matplotlib seaborn streamlit babel
+pip install virtualenv
+pip install pandas matplotlib seaborn streamlit
 ```
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run app_bike.py
 ```
 
